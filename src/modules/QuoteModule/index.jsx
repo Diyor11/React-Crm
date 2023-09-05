@@ -1,7 +1,7 @@
 import { ErpLayout } from '../../layout';
 import ErpPanel from '../../components/ErpPanel';
 import QuoteForm from './QuoteForm';
-import dataTableDropMenu from './DataTableDropMenu';
+import dataTableDropMenu from './dataTableDropMenu';
 
 export default function InvoiceModule({ config }) {
   return (
